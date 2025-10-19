@@ -49,4 +49,4 @@ my-directory/
 ```
 
 ## ⚠️ Note
-The script organizes all files except itself (my.js) to avoid moving the organizer.
+The script organizes all files except itself (filesOrganizer.js) to avoid moving the organizer.
