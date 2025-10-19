@@ -11,7 +11,7 @@ A simple Node.js script that automatically organizes files in your directory by 
 
 ## 📁 Usage
 
-1. Place `my.js` in the directory you want to organize
+1. Place `filesOrganizer.js` in the directory you want to organize
 2. Run the script:
 ```bash
 node filesOrganizer.js
